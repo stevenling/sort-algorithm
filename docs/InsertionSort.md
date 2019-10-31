@@ -12,36 +12,36 @@
 
 ## 代码
 ```cpp
-#include<iostream>
+#include <iostream>
 using namespace std;
 
 // ---------------------
 void insertSort(int a[])
 {
-	int i, temp, j, len;
-	len = 6;
-	for(j = 1; j < len; j++)
-	{
-		temp = a[j];
-		i = j - 1;
-		while(i >= 0 && a[i] > temp)
-		{
-			a[i+1] = a[i];
-			i--;
-		}
-		a[i+1] = temp;
-	}
+    int i, temp, j, len;
+    len = 6;
+    for (j = 1; j < len; j++)
+    {
+        temp = a[j];
+        i = j - 1;
+        while (i >= 0 && a[i] > temp)
+        {
+            a[i + 1] = a[i];
+            i--;
+        }
+        a[i + 1] = temp;
+    }
 }
 
 // -------
 int main()
 {
-	int a[6]={5,2,4,6,1,3};
-	insertSort(a);
-	for(int i = 0; i < 6; i++)
-	{
-		cout<<a[i]<<' ';
-	}
-	return 0;
+    int a[6] = {5, 2, 4, 6, 1, 3};
+    insertSort(a);
+    for (int i = 0; i < 6; i++)
+    {
+        cout << a[i] << ' ';
+    }
+    return 0;
 }
 ```
