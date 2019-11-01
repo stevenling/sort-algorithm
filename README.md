@@ -11,3 +11,4 @@
 |  03  | [直接插入排序](https://github.com/stevenling/sort-algorithm/blob/master/docs/InsertionSort.md) |
 |  04  |     [快速排序](https://github.com/stevenling/sort-algorithm/blob/master/docs/QuickSort.md)     |
 |  05  |      [堆排序](https://github.com/stevenling/sort-algorithm/blob/master/docs/HeapSort.md)       |
+|  06  |     [归并排序](https://github.com/stevenling/sort-algorithm/blob/master/docs/MergeSort.md)     |
