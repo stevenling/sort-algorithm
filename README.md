@@ -17,6 +17,7 @@
 ## 参考资料
 
 - [排序算法总结](https://www.runoob.com/w3cnote/sort-algorithm-summary.html)
+- [十大经典排序算法](https://sort.hust.cc/)
 
 ## 声明
 
