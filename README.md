@@ -1,6 +1,4 @@
-# sort-algorithm
-
-排序算法
+# 深入浅出排序算法
 
 ## 目录
 
@@ -12,3 +10,7 @@
 |  04  |     [快速排序](https://github.com/stevenling/sort-algorithm/blob/master/docs/QuickSort.md)     |
 |  05  |      [堆排序](https://github.com/stevenling/sort-algorithm/blob/master/docs/HeapSort.md)       |
 |  06  |     [归并排序](https://github.com/stevenling/sort-algorithm/blob/master/docs/MergeSort.md)     |
+
+## 参考资料
+
+- [排序算法总结](https://www.runoob.com/w3cnote/sort-algorithm-summary.html)
