@@ -16,7 +16,7 @@
 using namespace std;
 
 // ---------------------
-void insertSort(int a[])
+void InsertSort(int a[])
 {
     int i, temp, j, len;
     len = 6;
@@ -37,7 +37,7 @@ void insertSort(int a[])
 int main()
 {
     int a[6] = {5, 2, 4, 6, 1, 3};
-    insertSort(a);
+    InsertSort(a);
     for (int i = 0; i < 6; i++)
     {
         cout << a[i] << ' ';
